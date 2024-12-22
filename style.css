@@ -388,6 +388,10 @@ fieldset{
         z-index: 1;
         display: none;
     }
+    .logo2{
+        display: flex;
+        justify-content: center;
+    }
     
 }
 @media (max-width: 600px){
@@ -463,6 +467,13 @@ fieldset{
     .pp{
         z-index: 1;
         display: none;
+    }
+    .logo2{
+        display: flex;
+        position: absolute;
+        justify-content: center;
+        left: 100px;
+
     }
     
 }
@@ -540,3 +551,4 @@ fieldset{
 .box-2 img{
     max-height: auto;
 }
+
