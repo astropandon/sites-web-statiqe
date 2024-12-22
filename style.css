@@ -394,7 +394,7 @@ fieldset{
     }
     
 }
-@media (max-width: 600px){
+@media (max-width: 300px){
     h1 {
         font-size: 38px;
     }
