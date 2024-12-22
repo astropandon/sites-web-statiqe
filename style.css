@@ -6,6 +6,46 @@
     font-family: 'Spartan',sans-serif;
     flex-wrap: wrap;
 }
+.logo1{
+    background-image: url(maroc/tajin/f3.jpg);
+    width: 200px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo2{
+    background-image: url(maroc/balgha/logo.jpg);
+    width: 200px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo3{
+    background-image: url(maroc/zlij/14.webp);
+    width: 200px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo4{
+    background-image: url(maroc/zrabi/3.jpg);
+    width: 200px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo5{
+    background-image: url(maroc/quoftan/q6.jpg);
+    width: 200px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #btnn{
     color: #333;
 }
@@ -22,7 +62,7 @@ header{
     color: #c18b63;
 }
 .aa{
-    padding: 17px;
+    padding: 20px;
     text-decoration: none;
     color:#333;
     position: relative;
@@ -388,9 +428,9 @@ fieldset{
         z-index: 1;
         display: none;
     }
-    .logo2{
+    .logo1, .logo2, .logo3, .logo4, .logo5{
         display: flex;
-        justify-content: center;
+        margin: auto;
     }
     
 }
