@@ -46,8 +46,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 #btnn{
     color: #333;
+
 }
 
 .menu i{
@@ -83,6 +85,9 @@ header{
 .head{
     padding: 20px;
     height: 100px;
+}
+a{
+    text-decoration: none;
 }
 .Login{
     position: absolute;
@@ -404,7 +409,8 @@ fieldset{
     }
     #btnn{
         position: relative;
-        top: 10px;
+        top: 60px;
+
     }
     header{
         position: absolute;
@@ -484,7 +490,7 @@ fieldset{
     }
     #btnn{
         position: relative;
-        top: 10px;
+        top: 60px;
     }
     header{
         position: absolute;
